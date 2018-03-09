@@ -1,2 +1,6 @@
 # hsbc-db-sync-spring-boot
-Spring boot
+
+Databases used :
+Mysql and Derby
+
+
